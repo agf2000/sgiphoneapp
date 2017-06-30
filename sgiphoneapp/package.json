@@ -1,0 +1,19 @@
+{
+  "name": "sgiphoneapp",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jquery-mobile": "1.4.1",
+    "knockout": "^3.4.2",
+    "jquery-migrate": "3.0.0",
+    "sqlite3": "^3.1.8"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agf2000/sgiphoneapp.git"
+  }
+}

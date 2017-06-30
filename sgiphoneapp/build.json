@@ -1,0 +1,11 @@
+{
+  "android": {
+    "release": {
+      "keystore": "c:\\sgiphoneapp.keystore",
+      "storePassword": "senha123",
+      "alias": "agf",
+      "password": "senha123",
+      "keystoreType": ""
+    }
+  }
+}
